@@ -11,7 +11,7 @@ export default function Category({categories}:{categories:CategoriesProps[]}){
                     
                     <div key={i} className='flex flex-col gap-2 items-center'>
                         <Image src={category.src} alt={category.title} width={150} height={150}/>
-                        <p>{category.title}</p>
+                        <p className="text-gray-500">{category.title}</p>
                     </div>
                 )
             })

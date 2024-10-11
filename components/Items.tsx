@@ -54,7 +54,23 @@ export default function Items(){
             normalprice: 600000,
             itemsleft: 15,
             discount: 30
-        }    
+        },  
+        {
+            src: "/image6.jpg",
+            title:'Tecno Pop 8 - 6.6" 3GB RAM',
+            discountprice: 420000,
+            normalprice: 600000,
+            itemsleft: 15,
+            discount: 30
+        },  
+        {
+            src: "/image6.jpg",
+            title:'Tecno Pop 8 - 6.6" 3GB RAM',
+            discountprice: 420000,
+            normalprice: 600000,
+            itemsleft: 15,
+            discount: 30
+        },  
     
       
     ]
